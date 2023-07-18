@@ -1,0 +1,11 @@
+HTTP Requests 
+
+GET - get the API ENDPOINTS,get the data from the API ENDPOINTS
+
+POST - push the data in API ENDPOINTS such as google sheets , send data to the API
+
+PUT - update the data in the API 
+
+DELETE - delete the data
+
+PIXEL_ENDPOINTS "https://pixe.la/v1/users" to track the data

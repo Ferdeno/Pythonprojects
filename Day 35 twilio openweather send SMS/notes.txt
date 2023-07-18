@@ -1,0 +1,9 @@
+Twilio - API to send SMS to phone number 
+
+ventusky - to get the lat and lon based on climate condition
+
+json viewer.stack.hu - to format the json data
+
+https://openweathermap.org/ - API to get data of weather
+
+https://apilist.fun/ - list of all API's

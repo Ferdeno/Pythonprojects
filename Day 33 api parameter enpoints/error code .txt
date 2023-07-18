@@ -1,0 +1,16 @@
+error code :
+
+1XX : HOLD ON (something is happening wait)
+
+2XX : HERE YOU GO (ready with the data)
+
+3XX : GO AWAY (Have no permission to access)
+
+4XX : YOU SCREWED UP (like 404 error does not exist)
+
+5XX : I SCREWED UP (server is down,website is down
+
+
+https://www.webfx.com/web-development/glossary/http-status-codes/ 
+
+all error code with info

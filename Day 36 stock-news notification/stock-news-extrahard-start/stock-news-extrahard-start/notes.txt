@@ -1,0 +1,8 @@
+https://www.tradingview.com/ - API to see the analysis of stock
+
+https://newsapi.org - API to get news
+
+https://www.twilio.com - API to send SMS 
+
+
+
