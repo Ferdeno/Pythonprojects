@@ -1,0 +1,16 @@
+Blackjack / 21 game 
+
+Dealer vs user
+
+This game is played using cards from 2 to 10 as face values and J,Q,K as value 10 and A value as 1 or 11
+
+If the total card values is 21 then the one who got 21 wins 
+
+If the total card values is greater than 21 then the player loses 
+
+If both the players got card values more than 21 then the greater card value of the player loses the lesser card value of the player wins
+
+If both the players has card values less than 21 then the player who has greater value is considered to be the winner
+
+If any player who has the card value which is less than 17 (16 or under) then the player have to take a extra cards until the card value reaches more than 16
+
