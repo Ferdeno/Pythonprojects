@@ -1,0 +1,3 @@
+https://www.nutritionix.com/business/api - API to get nutrition info from the prompt	
+
+https://dashboard.sheety.co/ - this is used to update the excel sheet by python code
