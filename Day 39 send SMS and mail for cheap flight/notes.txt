@@ -1,6 +1,0 @@
-TWILIO - API to send SMS
-
-TEQUILA - "https://tequila-api.kiwi.com" - API to search flight all details
-
-SHETTY 
-
