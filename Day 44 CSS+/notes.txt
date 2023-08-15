@@ -1,0 +1,9 @@
+https://colorhunt.co/ - matching colours
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/named-color - colour names
+
+https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/ - colour mixer
+
+https://fonts.google.com/ - font family
+
+Pesticide for Chrome its an extension that will show the div container separately
