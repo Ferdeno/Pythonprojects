@@ -1,0 +1,9 @@
+beautiful soup - getting data from HTML and XML 
+
+Beautiful Soup is a Python package for parsing HTML and XML documents (including having malformed markup, i.e. non-closed tags, so named after tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
+
+
+XML - Extensible Markup Language
+
+
+using request the website details can be obtained and using beautifulsoup we can extract data that is taken from request module 
