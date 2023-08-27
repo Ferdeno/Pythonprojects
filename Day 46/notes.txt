@@ -1,0 +1,6 @@
+https://developer.spotify.com/dashboard : spotify for developers
+
+https://www.billboard.com : for search top 100 songs in the given date 
+
+https://spotipy.readthedocs.io/en/2.22.1/ : spotipy documentation 
+
