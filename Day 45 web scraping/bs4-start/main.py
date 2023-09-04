@@ -1,11 +1,11 @@
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
 
 response=requests.get("https://news.ycombinator.com/")
 website_details=response.text
 
 soup=BeautifulSoup(website_details,"html.parser")
-
+print(soup.prettify())
 article=soup.find_all(name="a",rel="noreferrer")
 
 text=[]

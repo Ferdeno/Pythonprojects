@@ -1,16 +1,16 @@
 import datetime as dt
-import smtplib
 import random
+import smtplib
 
 weekday=dt.datetime.now().weekday()
-
+print(weekday)
 email="t72053126@gmail.com"
-password="sxihhfqnxzojinkg"
+password="emtfvnduldqzafdw"
 
-if weekday==5:
+if weekday==0:
     with open("quotes.txt") as file:
         quotes=file.readlines()
-    with smtplib.SMTP("smtp.gmail.com") as connection:
+    with smtplib.SMTP("smtp.gmail.com",port=587) as connection:
     #tls - transport layer security
         connection.starttls()#this will encrypt the email so other cannot read the message while transfering 
         connection.login(user=email,password=password)

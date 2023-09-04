@@ -1,0 +1,1 @@
+using BeautifulSoup scraping the data from the url using request module and if the condition satisfy the mail is sent using smtplib module
