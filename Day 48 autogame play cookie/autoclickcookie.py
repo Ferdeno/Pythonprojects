@@ -2,7 +2,6 @@ import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
 
 chrome_options=webdriver.ChromeOptions()
 chrome_options.add_experimental_option('detach',True)
@@ -48,7 +47,12 @@ def buyCursor():
 
 
 starttime=time.time()
-endtime=starttime+300
+endtime=starttime+60
+
+temp=0
+while(temp<100):
+    cookie_button.click()
+    temp+=1
 
 while time.time()<endtime:
     time.sleep(5)
@@ -79,6 +83,6 @@ while time.time()<endtime:
         button=driver.find_element(By.ID,value="buyCursor")
         button.click()
 
-print(driver.find_element(By.ID,value="cps"))
+print(driver.find_element(By.ID,value="cps").text)
 
 # driver.quit()
